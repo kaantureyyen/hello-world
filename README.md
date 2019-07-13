@@ -1,4 +1,4 @@
 # Hello-World
 Git Learning Repository
-### Sub Title ###
+### Sub Title
 This is a sub-title.
