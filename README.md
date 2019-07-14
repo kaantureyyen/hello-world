@@ -10,6 +10,7 @@ This is a sub-title.
 `
 let txt = 'This is a coding snippet'
 `
+
 Above is a coding text.
 ###### 6. Title
 This is a sub-title.
