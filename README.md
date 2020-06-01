@@ -8,7 +8,7 @@ This is a sub-title.
 This is a sub-title.
 ##### 5. Title
 `
-let txt = 'This is a coding snippet'
+let txt = 'This is a code snippet'
 `
 
 Above is a coding text.
